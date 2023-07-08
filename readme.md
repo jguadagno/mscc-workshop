@@ -8,6 +8,7 @@ This repository contains the materials for the MSCC workshop. The workshop walks
 
 * Visual Studio 2017 or higher, or JetBrains Rider, or Visual Studio Code
 * .NET Core 6.0 or higher
+* git client
 * A working internet connection
 
 ## Getting started
