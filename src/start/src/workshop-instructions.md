@@ -228,7 +228,6 @@ If the contact is found, it will return the contact.  If the contact is not foun
 
 The `SaveContact` will be used to create a new contact. Let's create it.
 
-
 ```csharp
 [HttpPost]
 public async Task<ActionResult<Contact>> SaveContact(Contact contact)
@@ -237,7 +236,7 @@ public async Task<ActionResult<Contact>> SaveContact(Contact contact)
 
     if (savedContact != null)
     {
-        return CreatedAtAction(nameof(GetContactAsync),
+        return CreatedAtAction(nameof(GetContact),
             new { id = contact.ContactId },
             contact);
     }
