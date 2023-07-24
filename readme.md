@@ -7,8 +7,9 @@ This repository contains the materials for the MSCC workshop. The workshop walks
 ## Prerequisites
 
 * Visual Studio 2017 or higher, or JetBrains Rider, or Visual Studio Code
-* .NET Core 6.0 or higher
-* git client
+* .NET Core 6.0 or higher, .NET 7 preferred.
+* .NET Workload of `ASP.NET and web development`
+* **git** client
 * A working internet connection
 
 ## Getting started
