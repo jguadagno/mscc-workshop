@@ -19,3 +19,7 @@ Clone this repository to your local machine and open the solution [src/start/src
 ## Workshop
 
 Once the solution is open.  Follow the instructions in the [.src/start/src/workshop-instructions.md](/src/start/src/workshop-instructions.md) to complete the workshop.
+
+## Slide Deck
+
+The slide deck for this workshop can be found [here](MSCC Workshop 2023.pptx)
