@@ -14,7 +14,7 @@ This repository contains the materials for the MSCC workshop. The workshop walks
 
 ## Getting started
 
-Clone this repository to your local machine and open the solution [src/start/src/Contacts.sln](src/start/src/Contacts.sln) in your IDE of choice.
+Clone this repository to your local machine and open the solution [src/start/src/Contacts.sln](/src/start/src/Contacts.sln) in your IDE of choice.
 
 ## Workshop
 
@@ -22,4 +22,4 @@ Once the solution is open.  Follow the instructions in the [src/start/src/worksh
 
 ## Slide Deck
 
-The slide deck for this workshop can be found [MSCC Workshop 2023.pptx](here)
+The slide deck for this workshop can be found [here](MSCC%20Workshop%202023.pptx)
